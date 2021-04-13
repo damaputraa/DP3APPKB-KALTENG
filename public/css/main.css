@@ -18,6 +18,12 @@ nav {
 	box-shadow: 0 10px 15px -3px rgb(0 0 0 / 5%), 0 4px 6px -2px rgb(0 0 0 / 5%);
 }
 
+#myCarousel {
+	box-shadow: -8px 18px 15px -3px rgba(0,0,0,0.2);
+	-webkit-box-shadow: -8px 18px 15px -3px rgba(0,0,0,0.2);
+	-moz-box-shadow: -8px 18px 15px -3px rgba(0,0,0,0.2);
+}
+
 .dropdown-item:hover {
 	transition: 0.8s;
 }
@@ -49,12 +55,16 @@ nav {
   font-family: 'Raleway', sans-serif;
 	border-radius: 1.2rem;
 	-webkit-font-smoothing: antialiased;
+	-webkit-font-smoothing: antialiased;
+	z-index: -1;
+	box-shadow: 0 10px 15px -3px rgb(0 0 0 / 5%), 0 4px 6px -2px rgb(0 0 0 / 5%);
 }
 
 .isi-kotak-kanan {
 	border-radius: 0.8rem;
 	background-color: #fff;
 	-webkit-font-smoothing: antialiased;
+	box-shadow: 0 10px 15px -3px rgb(0 0 0 / 5%), 0 4px 6px -2px rgb(0 0 0 / 5%);
 }
 
 .isi-kotak-kanan h3{
