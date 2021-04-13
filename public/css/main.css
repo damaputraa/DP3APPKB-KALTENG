@@ -50,6 +50,12 @@ nav {
 	box-shadow: 0 10px 15px -3px rgb(0 0 0 / 5%), 0 4px 6px -2px rgb(0 0 0 / 5%);
 }
 
+.kotak-kiri p {
+	font-size: 14px;
+	font-weight: 500;
+	color: #000000;
+}
+
 .kotak-kanan{
 	background-color: #ffe4da;
   font-family: 'Raleway', sans-serif;
@@ -73,8 +79,7 @@ nav {
 }
 
 .isi-kotak-kanan p{
-	font-size: 0.9rem;
-	font-family: sans-serif;
+	font-size: 1rem;
 	/* color: #cdd0cb; warna abu2 pucat */ 
 	color: #000000;
 	-webkit-font-smoothing: antialiased;
