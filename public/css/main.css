@@ -1,0 +1,122 @@
+/* stylelint-disable selector-list-comma-newline-after */
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900');
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Raleway:200,300,400,600,700');
+@import url('https://fonts.googleapis.com/css?family=Italianno');
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	top:0;
+	bottom: 0;
+	-webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.dropdown-item:hover {
+	transition: 0.8s;
+}
+
+.carousel {
+	border-radius: 1rem 1rem;
+}
+
+.main-page{
+  background-color: #F2F3F7	;
+  font-family: 'Raleway', sans-serif;
+	padding: 0;
+	-webkit-font-smoothing: antialiased;
+}
+
+.kotak-kiri{
+	background-color: #fff	;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+	border-radius: 1.2rem;
+	color: #181c32;
+	-webkit-font-smoothing: antialiased;
+	z-index: -1;
+}
+
+.kotak-kanan{
+	background-color: #ffe4da;
+  font-family: 'Raleway', sans-serif;
+	border-radius: 1.2rem;
+	-webkit-font-smoothing: antialiased;
+}
+
+.isi-kotak-kanan {
+	border-radius: 0.8rem;
+	background-color: #fff;
+	-webkit-font-smoothing: antialiased;
+}
+
+.isi-kotak-kanan h3{
+	color: #202060;
+	-webkit-font-smoothing: antialiased;
+}
+
+.isi-kotak-kanan p{
+	font-size: 0.9rem;
+	font-family: sans-serif;
+	/* color: #cdd0cb; warna abu2 pucat */ 
+	color: #000000;
+	-webkit-font-smoothing: antialiased;
+}
+
+a:hover{
+	opacity: 0.8;
+}
+
+.btn:hover{
+	opacity: 0.8;
+}
+
+
+@media (max-width: 500px) {
+	#head-atas {
+		position: sticky;
+		top: 0;
+		border-radius: 8px 8px 0 0;
+		z-index: 100;
+	}
+	.huruf-atas {
+		text-align: center;
+	}
+	.kotak-kanan {
+		display: none;
+	}
+	
+	footer .footer {
+		width: 100%;
+	}
+}
+@media (max-width: 767px) {
+	#head-atas {
+		position: sticky;
+		top: 0;
+		border-radius: 8px 8px 0 0;
+		z-index: 100;
+	}
+	.huruf-atas {
+		text-align: center;
+	}
+	.kotak-kanan {
+		display: none;
+	}
+	footer .footer{
+		width: 100%;
+	}
+}
+@media (max-width: 1024px) {
+	#head-atas {
+		position: sticky;
+		top: 0;
+		border-radius: 8px 8px 0 0;
+		z-index: 100;
+	}
+	.huruf-atas {
+		text-align: center;
+	}
+}
