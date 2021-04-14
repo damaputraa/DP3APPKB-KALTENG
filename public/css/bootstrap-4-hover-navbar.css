@@ -16,7 +16,7 @@
 .btco-hover-menu li a:hover,
 .btco-hover-menu li a:focus ,
 .navbar>.show>a,  .navbar>.show>a:focus,  .navbar>.show>a:hover{
-    color: rgb(255, 255, 255);
+    color: rgb(78, 78, 78);
     background: transparent;
     outline: 0;
     transition: all 0.3s;
@@ -39,9 +39,9 @@
 
 /*first level*/
 .btco-hover-menu .collapse ul > li:hover > a{opacity: 0.8;transition: all 0.5s;}
-.btco-hover-menu .collapse ul ul > li:hover > a, .navbar .show .dropdown-menu > li > a:focus, .navbar .show .dropdown-menu > li > a:hover{background: #ff971d;transition: all 0.5s;}
+.btco-hover-menu .collapse ul ul > li:hover > a, .navbar .show .dropdown-menu > li > a:focus, .navbar .show .dropdown-menu > li > a:hover{background: #bbdffd;transition: all 0.5s;}
 /*second level*/
-.btco-hover-menu .collapse ul ul ul > li:hover > a{background: #ff971d; transition: all 0.5s;}
+.btco-hover-menu .collapse ul ul ul > li:hover > a{background: #bbdffd; transition: all 0.5s;}
 
 /*third level*/
 .btco-hover-menu .collapse ul ul, .btco-hover-menu .collapse ul ul.dropdown-menu{background:#ffffff; transition: all 0.5s;}
