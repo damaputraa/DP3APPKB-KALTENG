@@ -44,15 +44,24 @@ nav {
   font-family: 'Raleway', sans-serif;
   font-weight: 300;
 	border-radius: 1.2rem;
-	color: #181c32;
 	-webkit-font-smoothing: antialiased;
 	z-index: -1;
 	box-shadow: 0 10px 15px -3px rgb(0 0 0 / 5%), 0 4px 6px -2px rgb(0 0 0 / 5%);
+	line-height: 1.9;
+}
+
+.kotak-kiri .card-1 p{
+	color: #ffffff;
 }
 
 .kotak-kiri p {
-	font-size: 14px;
-	font-weight: 500;
+	font-family: sans-serif;
+	font-size: 17px;
+	color: #333;
+}
+
+.artikel p{
+	color: #333;
 }
 
 .kotak-kanan{
@@ -96,7 +105,9 @@ a:hover{
 	position: sticky; top: 0;
 	z-index: 10;
 }
-
+.footer-respons{
+	display: none;
+}
 @media (max-width: 500px) {
 	#head-atas {
 		position: sticky;
@@ -117,11 +128,19 @@ a:hover{
 	}
 
 	.kotak-kanan {
-		display: none;
+		/* display: none; */
+		margin-top: 1rem;
 	}
 	
 	footer .footer {
 		width: 100%;
+	}
+
+	.footer-panjang {
+		display: none;
+	}
+	.footer-respons {
+		display:block ;
 	}
 }
 @media (max-width: 767px) {
@@ -137,15 +156,24 @@ a:hover{
 	.kotak-kiri .card-1{
 		margin-bottom: 0.5rem;
 	}
-
+	
 	.kotak-kiri .card-2{
 		margin-bottom: 0.5rem;
 	}
 	.kotak-kanan {
-		display: none;
+		/* display: none; */
+		margin-top: 1rem;
 	}
 	footer .footer{
 		width: 100%;
+	}
+	
+	.footer-respons {
+		display:block ;
+	}
+	
+	.footer-panjang {
+		display: none;
 	}
 }
 @media (max-width: 1024px) {
@@ -157,5 +185,12 @@ a:hover{
 	}
 	.huruf-atas {
 		text-align: center;
+	}
+	.footer-respons {
+		display:block ;
+	}
+	
+	.footer-panjang {
+		display: none;
 	}
 }
