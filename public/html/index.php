@@ -57,18 +57,18 @@
       </nav>
     </div> -->
   </header>
-
   <main class="px-3">
     <!-- <div class="fullscreen-bg">
       <div class="warna-video">
         <video loop muted autoplay poster="../image/kahayan.jpg" class="fullscreen-bg__video">
-          <source src="../video/kalteng.mp4" type="video/mp4">
-        </video>
-      </div>
-    </div> -->
-    <div class="content">
-      <div class="logo">
-        <a href="">
+        <source src="../video/kalteng.mp4" type="video/mp4">
+      </video>
+    </div>
+  </div> -->
+  <div class="content">
+    <div class="logo">
+      <a href="">
+          <?php echo "dama;"?>
           <img src="../image/logo2.png" width="400" height="74" alt="">
         </a>
       </div>
@@ -193,7 +193,7 @@
       </div>
       <p class="fw-light mt-3" style="font-family: Verdana, Geneva, Tahoma, sans-serif; color: #ececec;">Pengaduan Masyarakat <span><a href="" class="btn btn-outline-warning btn-sm">Laporkan!</a></span> tindak kekerasan terhadap perempuan dan anak yang dapat diajukan korban, keluarga atau masyarakat.</p>
       <div class="clearfix"></div>
-      <a href="main.html" style="background-color: #3498db;font-size:17px;margin-top: 5px;" class="enter-btn">Pergi Ke Web Utama</a>
+      <a href="main.php" style="background-color: #3498db;font-size:17px;margin-top: 5px;" class="enter-btn">Pergi Ke Web Utama</a>
       <br>
       <a href="https://wa.me/+6282124772867" target="_blank" style="background-color: #ffaa00;font-size:11px;margin-top: 20px;" class="enter-btn">Whatsapp 082124772867</a>
       <div id="kopi-covid"></div>
