@@ -68,7 +68,6 @@
   <div class="content">
     <div class="logo">
       <a href="">
-          <?php echo "dama;"?>
           <img src="../image/logo2.png" width="400" height="74" alt="">
         </a>
       </div>
@@ -215,4 +214,3 @@
 </div>
   </body>
 </html>
-"Halo ini website dama" 

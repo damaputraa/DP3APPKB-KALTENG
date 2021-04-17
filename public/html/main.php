@@ -52,7 +52,7 @@
 			<div class="container-fluid border-2">
 				<header
 					class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between border-2 py-2 mb-0">
-					<a href="index.html" class="d-flex align-items-center col-md-3 mb-2 mb-md-0 text-dark text-decoration-none">
+					<a href="index.php" class="d-flex align-items-center col-md-3 mb-2 mb-md-0 text-dark text-decoration-none">
 						<img src="../image/lambang-kalteng.png" width="160" height="auto" alt="">
 					</a>
 
@@ -334,6 +334,8 @@
 						</div>
 					</div>
 				</div>
+
+				<!-- Kotak Kanan -->
 				<div class="col-md-4 mb-3">
 					<div class="h-100 p-4 kotak-kanan">
 						<div class="isi-kotak-kanan p-3 mb-4 ">
