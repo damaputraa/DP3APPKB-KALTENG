@@ -20,7 +20,6 @@
 	<link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/headers/">
 
 
-
 	<!-- Bootstrap core CSS -->
 	<link href="../../assets/dist/css/bootstrap.min.css" rel="stylesheet">
 

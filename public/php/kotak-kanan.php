@@ -48,6 +48,7 @@
 	<main>
 		<!-- Format halaman -->
 		<div class="container-fluid content">
+		<div class="row">
 				<div class="col-md-4 mb-3">
 					<div class="h-100 p-4 kotak-kanan">
 						<div class="isi-kotak-kanan p-3 mb-4 ">
@@ -84,6 +85,7 @@
 					</div>
 				</div>
 			</div>
+		</div>
 	</main>
 </body>
 <script src="../js/scroll-sticky-nav.js"></script>

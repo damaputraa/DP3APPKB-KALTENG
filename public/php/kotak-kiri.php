@@ -48,15 +48,63 @@
 	<main>
 		<!-- Format halaman -->
 		<div class="container-fluid content">
-			<!-- Isi Konten Kiri -->
-			<div class="row align-items-md-stretch">
-				<div class="col-md-8 mb-3">
+		<div class="row">
+		<div class="col-md-8 mb-3">
 					<div class="h-100 p-4 kotak-kiri">
 						<!-- <lottie-player class="" src="https://assets8.lottiefiles.com/packages/lf20_2v2beqrh.json" width="100%" mode="bounce" background="#FFFFFF"  speed="1"  style="width: 100%; height: auto;"  loop autoplay></lottie-player> -->
 						<h2 class="text-center fw-bold">Halo Dama ! </h2>
 						<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi deserunt dolor atque modi repellendus
 							minus, fugiat qui, quia iusto quasi sint, aperiam culpa asperiores consequuntur eligendi quidem facilis.
 							Culpa, eos!</p>
+						<div class="row kartu">
+							<div class="col-md-4 card-1 fw-normal" style="display: block;">
+								<div class="card" style=" background-color: #ca3131d7; color: white; height: 100%;">
+									<div class="card-body ">
+										<h5 class="card-title fw-bold text-white">Pengaduan Masyarakat
+											<div class="class" style="border-bottom-style: solid;border-bottom-color: coral; padding: 3px;">
+											</div>
+										</h5>
+
+										<p class="card-text">Laporkan tindak kekerasan terhadap perempuan dan anak yang dapat diajukan
+											korban, keluarga atau masyarakat.</p>
+										<a href="#" class="card-link btn btn-outline-light btn-sm mb-1">Unit Layanan Terpadu</a><br>
+										<a href="#" class="card-link btn btn-outline-light btn-sm mb-1">SOP Layanan</a><br>
+										<a href="#" class="card-link btn btn-outline-light btn-sm mb-1">Formulir Kasus Anak</a><br>
+										<a href="#" class="card-link btn btn-outline-light btn-sm">Formulir Kasus Dewasa</a>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-4 card-1" style="display: block; ">
+								<div class="card" style=" background-color: #1b6ca8; height: 100%;">
+									<div class="card-body">
+										<h5 class="card-title fw-bold text-white">Permintaan Informasi
+											<div class="class" style="border-bottom-style: solid;
+								border-bottom-color: coral; padding: 3px;"></div>
+										</h5>
+
+										<p class=" konten-kiri card-text mb-5 ">Pejabat Pengelola Informasi dan Dokumentasi (PPID).</p>
+										<a href="#" class="card-link btn btn-outline-light btn-sm mb-1">Cara Permintaan informasi</a><br>
+										<a href="#" class="card-link btn btn-outline-light btn-sm mb-1">SOP Layanan</a><br>
+										<a href="#" class="card-link btn btn-outline-light btn-sm mb-1">Formulir Kasus Anak</a><br>
+										<a href="#" class="card-link btn btn-outline-light btn-sm">Formulir Kasus Dewasa</a>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-4 card-1" style="display: block;">
+								<div class="card text-white" style=" background-color: #006a71; height: 100%;">
+									<div class="card-body ">
+										<h5 class="card-title fw-bold text-white">Lapor Gratifikasi Online
+											<div class="class" style="border-bottom-style: solid;
+								border-bottom-color: coral; padding: 3px;"></div>
+										</h5>
+
+										<p class="card-text ">Setiap Aparatur Dinas Pemberdayaan Perempuan, Perlindungan Anak,
+											Pengendalian Penduduk dan Keluarga Berencana Provinsi Kalimantan Tengah
+											gratifikasi yang diterima kepada KPK.</p>
+										<a href="#" class="card-link btn btn-outline-light btn-sm">Prosedur dan Tata Cara</a>
+									</div>
+								</div>
+							</div>
 						</div>
 						<img src="../image/sugianto-covid.jpeg" class="sugianto my-2" width="100%" alt="">
 						<div class="artikel">
@@ -71,6 +119,7 @@
 						</div>
 					</div>
 				</div>
+		</div>
 			</div>
 	</main>
 </body>
