@@ -48,8 +48,8 @@
 	<main>
 		<!-- Format halaman -->
 		<div class="container-fluid content">
-		<div class="row align-items-md-stretch">
-		<div class="col-md-8 mb-3">
+		<div class="row">
+		<div class="bungkus-kiri h-100 mb-3">
 					<div class="h-100 p-4 kotak-kiri">
 						<!-- <lottie-player class="" src="https://assets8.lottiefiles.com/packages/lf20_2v2beqrh.json" width="100%" mode="bounce" background="#FFFFFF"  speed="1"  style="width: 100%; height: auto;"  loop autoplay></lottie-player> -->
 						<h2 class="text-center fw-bold">Halo Dama ! </h2>

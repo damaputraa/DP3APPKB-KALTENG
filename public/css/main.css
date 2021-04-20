@@ -65,6 +65,9 @@ nav {
 }
 
 .kotak-kanan{
+	margin:0;
+	padding: 0;
+	float: right;
 	background-color: #ffe4da;
   font-family: 'Raleway', sans-serif;
 	border-radius: 1.2rem;
