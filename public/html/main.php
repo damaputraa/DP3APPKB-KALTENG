@@ -55,7 +55,7 @@
 					<div class="col-md-8 text-end">
 						<h3 class="lh-sm fw-bolder huruf-atas"> DINAS PEMBERDAYAAN PEREMPUAN, PERLINDUNGAN ANAK, PENGENDALIAN
 							PENDUDUK
-							DAN KELUARGA BERENCANA</h3>
+							DAN KELUARGA BERENCANA </h3>
 						<p class="huruf-atas">PROVINSI KALIMANTAN TENGAH</p>
 						<p class="huruf-atas">Jl. M.H Tamrin No.11, Palangkaraya Kalimantan Tengah, 73111</p>
 					</div>
