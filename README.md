@@ -7,4 +7,4 @@ Semoga Bermanfaat untuk saya khususnya dan untuk masyarakat luas terutama
 Banyak kekurangan dalam pembuatan Website ini mohon dikoreksi apabila terdapat kesalahan ataupun
 kekurangan dari apa yang saya buat 
 
-Terimakasih
+Terimakasih.
